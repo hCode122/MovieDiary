@@ -10,7 +10,7 @@ const Header = () => {
             </div>
          
             <div className={styles.linkArea} id="linkArea">
-                <Link href="/">My movies</Link>
+                <Link href="/my-movies">My movies</Link>
                 <Link href="/">Movie database</Link>
                 <Link href="/">Account</Link>
             </div>
