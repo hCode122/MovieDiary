@@ -1,0 +1,4 @@
+{
+    "ext": "ts,json,js,mjs,cjs",
+    "ignore": ["src/**/*.spec.ts"]   
+}
